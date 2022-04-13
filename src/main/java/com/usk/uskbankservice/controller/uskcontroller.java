@@ -8,7 +8,7 @@ public class uskcontroller {
     @GetMapping("/getData")
 	public String getData()
 	{
-		return "Git/GitHub";
+		return "Git/GitHub gitBash";
 		
 	}
 }
